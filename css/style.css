@@ -1,0 +1,32 @@
+header {
+    background-color: #f5f5dd;
+    width: 50ex;
+    height: 110ex;
+}
+
+div[class^="div"] {
+    height: 140px;
+    width: 140px;
+    margin: 20px
+}
+
+.div1 {
+    background-color: rgba(0, 0, 0, 0.9);
+    top: 20px;
+    margin: auto;
+}
+
+.div2 {
+    background-color: rgba(0, 0, 0, 0.6);
+    top: 210px;
+}
+
+.div3 {
+    background-color: rgba(0, 0, 0, 0.4);
+    top: 400px;
+}
+
+.div4 {
+    background-color: rgba(0, 0, 0, 0.2);
+    top: 590px;
+}
